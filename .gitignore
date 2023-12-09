@@ -1,0 +1,10 @@
+### Intellij
+.idea/*
+
+!.idea/codeStyles
+!.idea/runConfigurations
+
+## Node.gitignore ###
+node_modules/
+*.log
+
