@@ -7,11 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class MainController {
 
-    @GetMapping("/")
-    public String home(){
-        return "home";
-    }
-
     @GetMapping("hi")
     public String hi(){
         return "hi_view";
