@@ -1,6 +1,9 @@
 ### Intellij
 .idea/*
 
+backend/.idea/
+backend/.gradle/
+
 !.idea/codeStyles
 !.idea/runConfigurations
 
